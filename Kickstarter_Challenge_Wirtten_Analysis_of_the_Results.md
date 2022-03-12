@@ -8,10 +8,10 @@
 Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 
 ### Analysis of Outcomes Based on Launch Date
-![..\resources\Theater_Outcomes_vs_Launch]
+![..\Theater_Outcomes_vs_Launch]
 
 ### Analysis of Outcomes Based on Goals
-![..\resources\Outcomes_vs_Goals]
+![..\Outcomes_vs_Goals]
 
 ### Challenges and Difficulties Encountered
 
