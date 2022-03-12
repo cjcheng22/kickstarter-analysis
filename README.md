@@ -2,11 +2,10 @@
 # Kickstarting with Excel
 
 ## Overview of Project: 
-###Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset that you’ve already combed through, you’ll visualize campaign outcomes based on their launch dates and their funding goals. You’ll then submit a written report based on your analysis and the visualizations you create.
-
 ### Purpose
+#### Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset that you’ve already combed through, you’ll visualize campaign outcomes based on their launch dates and their funding goals. You’ll then submit a written report based on your analysis and the visualizations you create.
 
-## Analysis and Challenges
+## Analysis and Challenges:
 Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 
 ### Analysis of Outcomes Based on Launch Date
@@ -15,7 +14,7 @@ Explain how you performed your analysis using images and links to code, as well 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals.png]
 
-### Challenges and Difficulties Encountered
+### Challenges and Difficulties Encountered:
 
 
 
