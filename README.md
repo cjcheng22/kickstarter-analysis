@@ -1,13 +1,14 @@
 # Kickstarting with Excel
 
 ## Overview of Project: 
-### Purpose: To help Louise with her decisions on which months and how much goal to set, in order to maximize her chances on the fundraising campaign fo her play, Fever by visulalizing the campaign outcome analysis.
+### Purpose: To help Louise with her decisions on which months and how much goal to set, in order to maximize her chances on the fundraising campaign for her play, Fever by visualizing the campaign outcome analysis.
 #### Background: Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset that you’ve already combed through, you’ll visualize campaign outcomes based on their launch dates and their funding goals. You’ll then submit a written report based on your analysis and the visualizations you create.
 
 ## Analysis and Challenges:
 
 ### Analysis of Outcomes Based on Launch Date
-#### This analysis bases percantage of the successful vs failed vs canceled campaigns by the month of years.  This helps to understand which month of the year is ideal for starting a fundraiding campaign. 
+#### This analysis bases percantage of the successful vs failed vs canceled campaigns by the month of years.  This helps to understand which month of the year is ideal 
+for starting a fundraiding campaign. 
 ![Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
@@ -26,11 +27,11 @@ One of the challenges I encountered is learning how to reverse the x- and y-axis
 - What can you conclude about the Outcomes based on Goals?
 1. The kickstarter campaign goal set for less than $1,000 are most likely to be successful: Obviously lower goals are easier to achieve.
 2. The kickstarter campaign goal set between $45,000 and $49,999 are most likely to fail: This also predicted, a higher goals are harder to achieve.
-3. The kickstarter campaign with goals set for more than $15,000 and less than $35,000, and campaigns with goal set more than $45,000 are more likely to fail than to succeed: This goal range between $35,000 and $45,000 are more likely to suceed than fail for some reason. 
+3. The kickstarter campaign with goals set for more than $15,000 and less than $35,000, and campaigns with goal set more than $45,000 are more likely to fail than to succeed: This goal range between $35,000 and $45,000 are more likely to succeed than fail for some reason. 
 
 - What are some limitations of this dataset?
 1.  Outcome Based on Launch Date analysis provides seasonal trend; does not take the yearly economic outlook (boom vs depression) into account
-2.  Outcome Based on Goads analysis does not provide clear explanation on why goal range between $35,000 and $45,000 are more likely to suceed than fail. 
+2.  Outcome Based on Goads analysis does not provide clear explanation on why goal range between $35,000 and $45,000 are more likely to succeed than fail. 
   
 - What are some other possible tables and/or graphs that we could create?
 1. Using Goal and Pledged will provide a better measurement for analysis of Outcome based on Goals, how much the total pledge went over or missed the goal will provide analysis on where is the right amount point of goal should have been set.  
