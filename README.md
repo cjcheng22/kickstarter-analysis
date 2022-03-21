@@ -7,12 +7,12 @@
 ## Analysis and Challenges:
 
 ### Analysis of Outcomes Based on Launch Date
-#### This analysis bases percantage of the successful vs failed vs canceled campaigns by the month of years.  This helps to understand which month of the year is ideal 
-for starting a fundraiding campaign. 
+#### This analysis bases percentage of the successful vs failed vs canceled campaigns by the month of years.  This helps to understand which month of the year is ideal 
+for starting a fundraising campaign. 
 ![Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-#### This analysis bases percentage of the successful vs failed campaigns by the fundraising amount goal set.  This helps to understand how much fundraising goals are likely to succeed when starting a fundraiding campaign. 
+#### This analysis bases percentage of the successful vs failed campaigns by the fundraising amount goal set.  This helps to understand how much fundraising goals are likely to succeed when starting a fundraising campaign. 
 ![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered:
@@ -35,5 +35,5 @@ One of the challenges I encountered is learning how to reverse the x- and y-axis
   
 - What are some other possible tables and/or graphs that we could create?
 1. Using Goal and Pledged will provide a better measurement for analysis of Outcome based on Goals, how much the total pledge went over or missed the goal will provide analysis on where is the right amount point of goal should have been set.  
-2. Average Donation and Backers Count data, combined with Outcome based Goals, could provide the fundraising campaign succeeds/fails because of outlier donatation; maybe there is a few very affluent backers donated to make the fundraiser campaign look more successful than it should have been.
+2. Average Donation and Backers Count data, combined with Outcome based Goals, could provide the fundraising campaign succeeds/fails because of outlier donation; maybe there is a few very affluent backers donated to make the fundraiser campaign look more successful than it should have been.
   
